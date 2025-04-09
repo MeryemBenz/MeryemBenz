@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Swift & Unreal**
 
-- 👯 I’m looking to collaborate on **AI projects and/or fullstack development for both Web and Mobile Apps**
+- 👯 I’m looking to collaborate on **AI projects and/or fullstack development for both Web and Mobile Apps for finance and education purposes**
 
 - 📝 I regularly write articles on [Tech By Mi](Tech By Mi)
 
