@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meryem Benz</h1>
 <h3 align="center">A passionate programmer from Morocco</h3>
 
-- 🔭 I’m currently working on **independent AI projects**
+- 🔭 I’m currently working on **independent AI and Finance projects**
 
 - 🌱 I’m currently learning **Angular, Swift & Unreal**
 
