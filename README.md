@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **independent AI and Finance projects**
 
-- 🌱 I’m currently learning **Angular, Swift & Unreal**
+- 🌱 I’m currently learning **Angular, Swift, Blender & Unreal**
 
 - 👯 I’m looking to collaborate on **AI projects and/or fullstack development for both Web and Mobile Apps for finance and education purposes**
 
